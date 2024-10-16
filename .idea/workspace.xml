@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-15-16-57">
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-16-09-45">
+      <change afterPath="$PROJECT_DIR$/04/06/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/06/10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04/05/09.py" beforeDir="false" afterPath="$PROJECT_DIR$/04/05/09.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,24 +56,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -201,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728993439027</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2024-10-16-09-45">
+      <option name="closed" value="true" />
+      <created>1729053938848</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1729053938848</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +252,8 @@
     <MESSAGE value="2024-10-14-12-18" />
     <MESSAGE value="2024-10-14-17-06" />
     <MESSAGE value="2024-10-15-16-57" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-10-15-16-57" />
+    <MESSAGE value="2024-10-16-09-45" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-10-16-09-45" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
