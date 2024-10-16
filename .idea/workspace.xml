@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-16-13-02">
-      <change afterPath="$PROJECT_DIR$/05/01/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/01/08.py" afterDir="false" />
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-16-14-42">
+      <change afterPath="$PROJECT_DIR$/06/02/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/02/13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +72,8 @@
     "Python.09.executor": "Run",
     "Python.10.executor": "Run",
     "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
@@ -232,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729065755362</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="2024-10-16-14-42">
+      <option name="closed" value="true" />
+      <created>1729071739450</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1729071739450</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,7 +284,8 @@
     <MESSAGE value="2024-10-16-09-45" />
     <MESSAGE value="2024-10-16-12-10" />
     <MESSAGE value="2024-10-16-13-02" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-10-16-13-02" />
+    <MESSAGE value="2024-10-16-14-42" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-10-16-14-42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
