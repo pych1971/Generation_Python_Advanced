@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-23-12-22">
-      <change afterPath="$PROJECT_DIR$/09/01/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09/02/11.py" afterDir="false" />
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-10-24-15-13">
+      <change afterPath="$PROJECT_DIR$/10/02/01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -310,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729668128981</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="2024-10-24-15-13">
+      <option name="closed" value="true" />
+      <created>1729764820141</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1729764820141</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,7 +325,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-10-07-15-50" />
     <MESSAGE value="2024-10-08-18-54" />
     <MESSAGE value="2024-10-09-10-33" />
     <MESSAGE value="2024-10-10-13-51" />
@@ -353,7 +349,8 @@
     <MESSAGE value="2024-10-22-11-51" />
     <MESSAGE value="2024-10-22-15-16" />
     <MESSAGE value="2024-10-23-12-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-10-23-12-22" />
+    <MESSAGE value="2024-10-24-15-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-10-24-15-13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
