@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-11-05-14-44">
-      <change afterPath="$PROJECT_DIR$/10/04/06.py" afterDir="false" />
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-11-06-13-08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10/04/05.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/04/05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10/04/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/10/04/06.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,26 +47,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.executor": "Run",
-    "Python.02.executor": "Run",
-    "Python.03.executor": "Run",
-    "Python.04.executor": "Run",
-    "Python.05.executor": "Run",
-    "Python.06.executor": "Run",
-    "Python.07.executor": "Run",
-    "Python.08.executor": "Run",
-    "Python.09.executor": "Run",
-    "Python.10.executor": "Run",
-    "Python.11.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.13.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -396,7 +395,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730799875789</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="2024-11-06-13-08">
+      <option name="closed" value="true" />
+      <created>1730880542137</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1730880542137</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +421,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-10-15-16-57" />
     <MESSAGE value="2024-10-16-09-45" />
     <MESSAGE value="2024-10-16-12-10" />
     <MESSAGE value="2024-10-16-13-02" />
@@ -439,7 +445,8 @@
     <MESSAGE value="2024-11-04-14-21" />
     <MESSAGE value="2024-11-04-14-22" />
     <MESSAGE value="2024-11-05-14-44" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-11-05-14-44" />
+    <MESSAGE value="2024-11-06-13-08" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-11-06-13-08" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -452,6 +459,11 @@
           <url>file://$PROJECT_DIR$/02/02/11.py</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10/04/06.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
