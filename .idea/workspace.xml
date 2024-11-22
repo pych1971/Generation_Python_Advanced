@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-11-21-11-14">
-      <change afterPath="$PROJECT_DIR$/11/02/01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11/02/07.py" afterDir="false" />
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-11-21-12-34">
+      <change afterPath="$PROJECT_DIR$/12/01/01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/01/02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/01/03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12/01/04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,26 +50,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.executor": "Run",
-    "Python.02.executor": "Run",
-    "Python.03.executor": "Run",
-    "Python.04.executor": "Run",
-    "Python.05.executor": "Run",
-    "Python.06.executor": "Run",
-    "Python.07.executor": "Run",
-    "Python.08.executor": "Run",
-    "Python.09.executor": "Run",
-    "Python.10.executor": "Run",
-    "Python.11.executor": "Run",
-    "Python.12.executor": "Run",
-    "Python.13.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -88,14 +85,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728206883276</updated>
-    </task>
-    <task id="LOCAL-00003" summary="2024-10-07-15-50">
-      <option name="closed" value="true" />
-      <created>1728298224234</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1728298224234</updated>
     </task>
     <task id="LOCAL-00004" summary="2024-10-08-18-54">
       <option name="closed" value="true" />
@@ -481,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732089001640</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="2024-11-21-12-34">
+      <option name="closed" value="true" />
+      <created>1732174458777</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1732174458778</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -499,7 +496,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-10-24-15-13" />
     <MESSAGE value="2024-10-27-17-02" />
     <MESSAGE value="2024-10-29-11-33" />
     <MESSAGE value="2024-10-29-14-15" />
@@ -524,7 +520,8 @@
     <MESSAGE value="2024-11-19-13-04" />
     <MESSAGE value="2024-11-20-12-49" />
     <MESSAGE value="2024-11-21-11-14" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-11-21-11-14" />
+    <MESSAGE value="2024-11-21-12-34" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024-11-21-12-34" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
