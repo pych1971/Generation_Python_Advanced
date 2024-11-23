@@ -1,17 +1,15 @@
-from string import ascii_letters, digits
-from random import choice
+from random import choice, shuffle
 
 
 def generate_password(length):
     password = ''
-    symbols = ascii_letters + digits
-    for _ in range(length):
-        next_symbol = choice(symbols)
-        while next_symbol in 'lI1oO0':
-            next_symbol = choice(symbols)
-        else:
-            password += next_symbol
-    return password
+    symbols = 'abcdefghijkmnpqrstuvwxyzABCDEFGHJKLMNPQRSTUVWXYZ23456789'
+    password += choice('ABCDEFGHJKLMNPQRSTUVWXYZ') + choice('abcdefghijkmnpqrstuvwxyz') + choice('23456789')
+    while len(password) < length:
+        password += choice(symbols)
+    password = list(password)
+    shuffle(password)
+    return ''.join(password)
 
 
 def generate_passwords(count, length):
