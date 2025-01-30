@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2024-11-25-08-47">
-      <change afterPath="$PROJECT_DIR$/12/03/02.py" afterDir="false" />
+    <list default="true" id="009c59bb-d900-48e0-b2cb-0c94f668b6e0" name="Changes" comment="2025-01-30-17-38">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +29,12 @@
     &quot;assignee&quot;: &quot;pych1971&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/pych1971/Generation_Python_Advanced&quot;,
-    &quot;accountId&quot;: &quot;50dd3de6-8d35-492d-a982-68733cf298d5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/pych1971/Generation_Python_Advanced",
+    "accountId": "152e449b-e45c-425d-97e9-a8f6e3b636cd"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -47,30 +46,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "C:/Users/sharapov/YandexDisk/Programming/Python/PycharmProjects/Generation_Python_Advanced",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-a5bc9544c897-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.23654.177" />
       </set>
     </attachedChunks>
   </component>
@@ -82,14 +83,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728206883276</updated>
-    </task>
-    <task id="LOCAL-00008" summary="2024-10-10-15-58">
-      <option name="closed" value="true" />
-      <created>1728557905732</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1728557905732</updated>
     </task>
     <task id="LOCAL-00009" summary="2024-10-11-11-49">
       <option name="closed" value="true" />
@@ -475,7 +468,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732506429767</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="2024-11-26-17-44">
+      <option name="closed" value="true" />
+      <created>1732625062353</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1732625062353</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,8 +494,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="2024-10-31-09-49" />
-    <MESSAGE value="2024-11-01-18-35" />
     <MESSAGE value="2024-11-02-17-47" />
     <MESSAGE value="2024-11-03-18-32" />
     <MESSAGE value="2024-11-04-14-21" />
@@ -518,7 +517,9 @@
     <MESSAGE value="2024-11-22-13-05" />
     <MESSAGE value="2024-11-23-18-09" />
     <MESSAGE value="2024-11-25-08-47" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024-11-25-08-47" />
+    <MESSAGE value="2024-11-26-17-44" />
+    <MESSAGE value="2025-01-30-17-38" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025-01-30-17-38" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
